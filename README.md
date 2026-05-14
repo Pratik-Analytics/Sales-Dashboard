@@ -1,10 +1,10 @@
- 📊 Sales Dashboard (Power BI)
+Sales Dashboard (Power BI)
 
-🔍 Overview
+# Overview
 
 This project presents a Power BI dashboard analyzing ecommerce sales data to identify trends in revenue, profit, and customer behavior.
 
- 🎯 Objectives
+# Objectives
 
 * Track total sales, profit, and quantity
 * Analyze category and sub-category performance
@@ -12,13 +12,13 @@ This project presents a Power BI dashboard analyzing ecommerce sales data to ide
 * Monitor monthly profit trends
 
 
- 🛠 Tools Used
+# Tools Used
 
 * Power BI
 * Excel / CSV
 
 
- 📌 Key Insights
+# Key Insights
 
 * Maharashtra is the top-performing state
 * Clothing category contributes highest quantity
@@ -26,8 +26,7 @@ This project presents a Power BI dashboard analyzing ecommerce sales data to ide
 * Profit drops during mid-year months
 
 
-
-📷 Dashboard Preview
+# Dashboard Preview
 
 [Dashboard](Dashboard.jpeg)
 
